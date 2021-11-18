@@ -10,10 +10,10 @@ This is lkt9899's github
 
 </div>
 <div align=center>
-
+<!--
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lkt9899.github.io/)](https://lkt9899.github.io/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:austkd89@gmail.com)](mailto:austkd89@gmail.com)
-
+-->
 </div>
 
 ### Studying Programming
