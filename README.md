@@ -41,9 +41,15 @@
   <br></br>
   
 ## 📃Projects
-- 2023.10-2023.11 [Enjoy Trip](https://github.com/lkt9899/EnjoyTrip)
-- 2022.09-2022.12 [12Stocks](https://github.com/lkt9899/12Stocks)
-- 2021.05-2021.06 [Gaming Bot with Jetson](https://github.com/lkt9899/capstone)
+- ### SSAFY
+  - 2024.04-2024.06 [H-UP](https://github.com/SSAFY-H-UP/H-UP)
+  - 2024.02-2024.04 [CourseFree](https://github.com/lkt9899/CourseFree)
+  - 2024.01-2024.02 [Drwa](https://github.com/lkt9899/Drwa)
+  - 2023.10-2023.11 [Enjoy Trip](https://github.com/lkt9899/EnjoyTrip)
+
+- ### College
+  - 2022.09-2022.12 [12Stocks](https://github.com/lkt9899/12Stocks)
+  - 2021.05-2021.06 [Gaming Bot with Jetson](https://github.com/lkt9899/capstone)
   <br></br>
   
 ## ❗Problem Solving
